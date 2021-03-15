@@ -8,9 +8,9 @@ This is a project in development for the Udacity Data Scientist Nanodegree.
 This flask app can be used as a template for visualizing your own data.
 
 # Prerequisites
-To install the flask app, you need:/
+To install the flask app, you need:
 
-`python3`/
+`python3`
 python packages in the `requirements.txt` file
 Install the packages with
 
